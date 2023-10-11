@@ -21,12 +21,10 @@ The project's scope spans multiple dimensions, encompassing:
 Our intended audience includes those with a keen interest in economics and data analysis:
 
   Data Enthusiasts, Economic Explorers
-      Individuals comfortable with Python and data analysis, eager to delve into economic trends using a data-driven approach.
-      Primarily interested in gaining insights into the S&P 500 index, state-level unemployment rates, and labor force participation.
+  Individuals comfortable with Python and data analysis, eager to delve into economic trends using a data-driven approach. Primarily interested in gaining insights into the S&P 500 index, state-level unemployment rates, and labor force participation.
 
   Economics Professionals, Python Novices
-      Experts in economic analysis seeking a streamlined approach to leverage Python for data exploration.
-      Focused on extracting clear and concise economic indicators to inform decision-making processes.
+  Experts in economic analysis seeking a streamlined approach to leverage Python for data exploration. Focused on extracting clear and concise economic indicators to inform decision-making processes.
 
 KEY ANALYSES
 
